@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdwigeFS
+- 👋 Hi, I’m @EdwigeS
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning about Data Analysis, Data Visualization, etc.
 - 💞️ I’m looking to collaborate on Data Analysis projects
