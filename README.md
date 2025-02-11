@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EdwigeS
+- 👋 Hi, I’m @Songonge
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning about Data Analysis, Data Visualization, etc.
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: hashleyed@gmail.com
+- 📫 How to reach me: feulefacksongonge@gmail.com
   
 <!---
 EdwigeFS/EdwigeFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
